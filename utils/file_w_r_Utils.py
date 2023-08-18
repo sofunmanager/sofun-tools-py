@@ -42,4 +42,4 @@ class INI_Tools:
 
 
 # print(INI_Tools.set("USER_CONFIG","token","123123123"))
-print(INI_Tools.get("USER_CONFIG","token"))
+# print(INI_Tools.get("USER_CONFIG","token"))
