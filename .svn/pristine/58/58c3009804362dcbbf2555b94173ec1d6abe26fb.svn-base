@@ -1,0 +1,259 @@
+2023-08-18 16:04:05,705 - start.py[line:157] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:04:05,726 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 16:04:05,727 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:04:05,728 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:04:06,021 - start.py[line:157] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:04:06,035 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 16:04:06,039 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 16:05:02,703 - start.py[line:157] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:05:02,725 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 16:05:02,725 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:05:02,727 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:05:03,012 - start.py[line:157] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:05:03,022 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 16:05:03,025 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 16:05:19,106 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\utils\\file_w_r_Utils.py', reloading
+2023-08-18 16:05:19,149 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:05:19,452 - start.py[line:157] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:05:19,463 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 16:05:19,467 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 16:05:26,762 - start.py[line:157] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:05:26,784 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 16:05:26,784 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:05:26,786 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:05:27,081 - start.py[line:157] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:05:27,091 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 16:05:27,096 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 16:05:56,820 - start.py[line:157] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:05:56,840 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 16:05:56,841 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:05:56,842 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:05:57,121 - start.py[line:157] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:05:57,134 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 16:05:57,137 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 16:06:23,246 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 16:06:23,282 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:06:23,553 - start.py[line:158] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:06:23,564 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 16:06:23,567 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 16:06:31,116 - start.py[line:158] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:06:31,137 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 16:06:31,137 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:06:31,139 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:06:31,407 - start.py[line:158] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:06:31,419 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 16:06:31,422 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 16:07:32,688 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 16:07:32,728 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:07:32,993 - start.py[line:45] - INFO: 加载配置文件...
+2023-08-18 16:07:32,996 - start.py[line:53] - INFO: 加载启动参数...
+2023-08-18 16:07:32,997 - start.py[line:161] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:07:33,008 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 16:07:33,014 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 16:07:39,565 - start.py[line:45] - INFO: 加载配置文件...
+2023-08-18 16:07:39,565 - start.py[line:53] - INFO: 加载启动参数...
+2023-08-18 16:07:39,566 - start.py[line:161] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:07:39,588 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 16:07:39,588 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:07:39,590 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:07:39,858 - start.py[line:45] - INFO: 加载配置文件...
+2023-08-18 16:07:39,859 - start.py[line:53] - INFO: 加载启动参数...
+2023-08-18 16:07:39,861 - start.py[line:161] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:07:39,872 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 16:07:39,875 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 16:08:22,103 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\utils\\file_w_r_Utils.py', reloading
+2023-08-18 16:08:22,146 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:08:22,425 - start.py[line:45] - INFO: 加载配置文件...
+2023-08-18 16:08:22,426 - start.py[line:53] - INFO: 加载启动参数...
+2023-08-18 16:08:22,428 - start.py[line:161] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:08:22,440 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 16:08:22,445 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 16:09:11,928 - start.py[line:45] - INFO: 加载配置文件...
+2023-08-18 16:09:11,929 - start.py[line:53] - INFO: 加载启动参数...
+2023-08-18 16:09:11,930 - start.py[line:161] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:09:16,516 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.3:5228
+2023-08-18 16:09:16,517 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:09:16,519 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:09:16,812 - start.py[line:45] - INFO: 加载配置文件...
+2023-08-18 16:09:16,812 - start.py[line:53] - INFO: 加载启动参数...
+2023-08-18 16:09:16,814 - start.py[line:161] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:09:16,825 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 16:09:16,828 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 16:09:30,432 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 16:09:30] "POST /login HTTP/1.1" 200 -
+2023-08-18 16:10:19,114 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 16:10:19,171 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:10:19,468 - start.py[line:45] - INFO: 加载配置文件...
+2023-08-18 16:10:19,469 - start.py[line:53] - INFO: 加载启动参数...
+2023-08-18 16:10:19,470 - start.py[line:66] - WARNING: 设置启动地址为[127.0.0.3],该地址可能会导致服务无法访问！
+2023-08-18 16:10:19,471 - start.py[line:161] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:10:19,483 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 16:10:19,487 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 16:10:22,571 - start.py[line:45] - INFO: 加载配置文件...
+2023-08-18 16:10:22,572 - start.py[line:53] - INFO: 加载启动参数...
+2023-08-18 16:10:22,573 - start.py[line:66] - WARNING: 设置启动地址为[127.0.0.3],该地址可能会导致服务无法访问！
+2023-08-18 16:10:22,575 - start.py[line:161] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:10:27,165 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.3:5228
+2023-08-18 16:10:27,166 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:10:27,168 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:10:27,443 - start.py[line:45] - INFO: 加载配置文件...
+2023-08-18 16:10:27,444 - start.py[line:53] - INFO: 加载启动参数...
+2023-08-18 16:10:27,445 - start.py[line:66] - WARNING: 设置启动地址为[127.0.0.3],该地址可能会导致服务无法访问！
+2023-08-18 16:10:27,447 - start.py[line:161] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:10:27,463 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 16:10:27,468 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 16:11:18,689 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 16:11:18,744 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:11:19,044 - start.py[line:45] - INFO: 加载配置文件...
+2023-08-18 16:11:19,045 - start.py[line:53] - INFO: 加载启动参数...
+2023-08-18 16:11:19,046 - start.py[line:66] - WARNING: 当前启动地址为[127.0.0.3],该地址可能会导致服务无法访问！建议设置为[127.0.0.1]|[0.0.0.0]|[localhost]
+2023-08-18 16:11:19,048 - start.py[line:161] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:11:19,058 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 16:11:19,062 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 16:11:29,849 - start.py[line:45] - INFO: 加载配置文件...
+2023-08-18 16:11:29,850 - start.py[line:53] - INFO: 加载启动参数...
+2023-08-18 16:11:29,850 - start.py[line:66] - WARNING: 当前启动地址为[127.0.0.3],该地址可能会导致服务无法访问！建议设置为[127.0.0.1]|[0.0.0.0]|[localhost]
+2023-08-18 16:11:29,851 - start.py[line:161] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:11:34,424 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.3:5228
+2023-08-18 16:11:34,425 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:11:34,426 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:11:34,689 - start.py[line:45] - INFO: 加载配置文件...
+2023-08-18 16:11:34,691 - start.py[line:53] - INFO: 加载启动参数...
+2023-08-18 16:11:34,692 - start.py[line:66] - WARNING: 当前启动地址为[127.0.0.3],该地址可能会导致服务无法访问！建议设置为[127.0.0.1]|[0.0.0.0]|[localhost]
+2023-08-18 16:11:34,693 - start.py[line:161] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:11:34,707 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 16:11:34,713 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 16:13:18,164 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\utils\\jwtUtils.py', reloading
+2023-08-18 16:13:18,211 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:13:18,532 - start.py[line:45] - INFO: 加载配置文件...
+2023-08-18 16:13:18,533 - start.py[line:53] - INFO: 加载启动参数...
+2023-08-18 16:13:18,534 - start.py[line:66] - WARNING: 当前启动地址为[127.0.0.3],该地址可能会导致服务无法访问！建议设置为[127.0.0.1]|[0.0.0.0]|[localhost]
+2023-08-18 16:13:18,535 - start.py[line:161] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 16:13:18,548 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 16:13:18,551 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 16:15:41,179 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 16:15:41,226 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 16:15:41,539 - start.py[line:46] - INFO: 加载配置文件...
+2023-08-18 16:15:55,075 - start.py[line:46] - INFO: 加载配置文件...
+2023-08-18 16:16:07,286 - start.py[line:46] - INFO: 加载配置文件...
+2023-08-18 16:21:51,440 - start.py[line:46] - INFO: 加载配置文件...
+2023-08-18 16:21:51,441 - start.py[line:61] - INFO: 加载启动参数...
+2023-08-18 16:21:51,442 - start.py[line:74] - WARNING: 当前启动地址为[127.0.0.3],该地址可能会导致服务无法访问！建议设置为[127.0.0.1]|[0.0.0.0]|[localhost]
+2023-08-18 16:21:51,443 - start.py[line:169] - INFO: 启动sofun工具盒服务[DEBUG:False]>>>
+2023-08-18 16:21:56,021 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.3:5228
+2023-08-18 16:21:56,023 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:22:06,359 - start.py[line:46] - INFO: 加载配置文件...
+2023-08-18 16:22:06,360 - start.py[line:61] - INFO: 加载启动参数...
+2023-08-18 16:22:06,361 - start.py[line:74] - WARNING: 当前启动地址为[127.0.0.3],该地址可能会导致服务无法访问！建议设置为[127.0.0.1]|[0.0.0.0]|[localhost]
+2023-08-18 16:22:06,361 - start.py[line:169] - INFO: 启动sofun工具盒服务[DEBUG:False]>>>
+2023-08-18 16:22:10,929 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.3:5228
+2023-08-18 16:22:10,930 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:23:45,933 - start.py[line:46] - INFO: 加载配置文件...
+2023-08-18 16:23:45,934 - start.py[line:61] - INFO: 加载启动参数...
+2023-08-18 16:23:45,934 - start.py[line:74] - WARNING: 当前启动地址为[127.0.0.3],该地址可能会导致服务无法访问！建议设置为[127.0.0.1]|[0.0.0.0]|[localhost]
+2023-08-18 16:23:45,936 - start.py[line:182] - INFO: 启动sofun工具盒服务[DEBUG:False]>>>
+2023-08-18 16:23:50,507 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.3:5228
+2023-08-18 16:23:50,508 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:24:47,193 - start.py[line:46] - INFO: 加载配置文件...
+2023-08-18 16:24:47,194 - start.py[line:61] - INFO: 加载启动参数...
+2023-08-18 16:24:47,194 - start.py[line:74] - WARNING: 当前启动地址为[127.0.0.3],该地址可能会导致服务无法访问！建议设置为[127.0.0.1]|[0.0.0.0]|[localhost]
+2023-08-18 16:24:47,195 - start.py[line:182] - INFO: 启动sofun工具盒服务[DEBUG:False]>>>
+2023-08-18 16:24:51,751 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.3:5228
+2023-08-18 16:24:51,752 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:26:02,607 - start.py[line:46] - INFO: 加载配置文件...
+2023-08-18 16:26:02,608 - start.py[line:61] - INFO: 加载启动参数...
+2023-08-18 16:26:02,609 - start.py[line:176] - INFO: 启动sofun工具盒服务[DEBUG:False]>>>
+2023-08-18 16:26:02,624 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 16:26:02,625 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:33:28,213 - start.py[line:46] - INFO: 加载配置文件...
+2023-08-18 16:33:28,214 - start.py[line:61] - INFO: 加载启动参数...
+2023-08-18 16:40:06,011 - start.py[line:46] - INFO: 加载配置文件...
+2023-08-18 16:40:06,012 - start.py[line:61] - INFO: 加载启动参数...
+2023-08-18 16:43:00,103 - start.py[line:46] - INFO: 加载配置文件...
+2023-08-18 16:43:00,104 - start.py[line:61] - INFO: 加载启动参数...
+2023-08-18 16:47:16,450 - start.py[line:52] - INFO: 加载配置文件...
+2023-08-18 16:47:16,451 - start.py[line:67] - INFO: 加载启动参数...
+2023-08-18 16:47:16,452 - start.py[line:120] - INFO: 启动sofun工具盒服务[DEBUG:False]>>>
+2023-08-18 16:47:16,468 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 16:47:16,468 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:47:20,880 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 16:47:20] "POST /login HTTP/1.1" 200 -
+2023-08-18 16:47:47,977 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 16:47:47] "POST /login HTTP/1.1" 200 -
+2023-08-18 16:48:09,178 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 16:48:09] "POST /login HTTP/1.1" 200 -
+2023-08-18 16:48:15,004 - start.py[line:52] - INFO: 加载配置文件...
+2023-08-18 16:48:15,005 - start.py[line:67] - INFO: 加载启动参数...
+2023-08-18 16:48:15,006 - start.py[line:121] - INFO: 启动sofun工具盒服务[DEBUG:False]>>>
+2023-08-18 16:48:15,021 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 16:48:15,023 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:48:16,858 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 16:48:16] "POST /login HTTP/1.1" 200 -
+2023-08-18 16:51:07,905 - start.py[line:52] - INFO: 加载配置文件...
+2023-08-18 16:51:07,906 - start.py[line:67] - INFO: 加载启动参数...
+2023-08-18 16:51:07,906 - start.py[line:122] - INFO: 启动sofun工具盒服务[DEBUG:False]>>>
+2023-08-18 16:51:07,920 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 16:51:07,921 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:51:20,899 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 16:51:20] "POST /login HTTP/1.1" 200 -
+2023-08-18 16:51:54,755 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 16:51:54] "POST /user/login HTTP/1.1" 200 -
+2023-08-18 16:54:26,570 - start.py[line:52] - INFO: 加载配置文件...
+2023-08-18 16:54:26,571 - start.py[line:67] - INFO: 加载启动参数...
+2023-08-18 16:54:26,571 - start.py[line:126] - INFO: 启动sofun工具盒服务[DEBUG:False]>>>
+2023-08-18 16:54:26,585 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 16:54:26,586 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:54:30,850 - start.py[line:108] - INFO: [None]访问[user.login]
+2023-08-18 16:54:30,853 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 16:54:30] "POST /user/login HTTP/1.1" 200 -
+2023-08-18 16:54:43,438 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 16:54:43] "POST /user/login1 HTTP/1.1" 200 -
+2023-08-18 16:57:39,141 - _internal.py[line:187] - INFO: 192.168.0.161 - - [18/Aug/2023 16:57:39] "GET /login?username=1&password=2 HTTP/1.1" 200 -
+2023-08-18 16:57:39,188 - _internal.py[line:187] - INFO: 192.168.0.161 - - [18/Aug/2023 16:57:39] "GET /favicon.ico HTTP/1.1" 200 -
+2023-08-18 16:57:54,935 - start.py[line:108] - INFO: [None]访问[user.login]
+2023-08-18 16:57:54,937 - _internal.py[line:187] - INFO: 192.168.0.161 - - [18/Aug/2023 16:57:54] "GET /user/login?username=1&password=2 HTTP/1.1" 200 -
+2023-08-18 16:57:54,964 - _internal.py[line:187] - INFO: 192.168.0.161 - - [18/Aug/2023 16:57:54] "GET /favicon.ico HTTP/1.1" 200 -
+2023-08-18 16:58:17,118 - start.py[line:108] - INFO: [None]访问[user.login]
+2023-08-18 16:58:17,119 - _internal.py[line:187] - INFO: 192.168.0.129 - - [18/Aug/2023 16:58:17] "GET /user/login?username=1&password=2 HTTP/1.1" 200 -
+2023-08-18 16:58:17,163 - _internal.py[line:187] - INFO: 192.168.0.129 - - [18/Aug/2023 16:58:17] "GET /favicon.ico HTTP/1.1" 200 -
+2023-08-18 16:58:48,453 - start.py[line:52] - INFO: 加载配置文件...
+2023-08-18 16:58:48,454 - start.py[line:67] - INFO: 加载启动参数...
+2023-08-18 16:58:48,455 - start.py[line:123] - INFO: 启动sofun工具盒服务[DEBUG:False]>>>
+2023-08-18 16:58:48,471 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 16:58:48,472 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 16:59:04,043 - _internal.py[line:187] - INFO: 192.168.0.129 - - [18/Aug/2023 16:59:04] "GET /user/login?username=1&password=2 HTTP/1.1" 200 -
+2023-08-18 16:59:04,064 - _internal.py[line:187] - INFO: 192.168.0.129 - - [18/Aug/2023 16:59:04] "GET /favicon.ico HTTP/1.1" 200 -

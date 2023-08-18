@@ -1,0 +1,147 @@
+2023-08-18 11:54:15,614 - start.py[line:116] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 11:54:15,629 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 11:54:15,629 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 11:54:21,431 - start.py[line:67] - INFO: >>>>hello
+2023-08-18 11:54:21,431 - start.py[line:68] - INFO: 111
+2023-08-18 11:54:21,432 - app.py[line:1414] - ERROR: Exception on /hello [GET]
+Traceback (most recent call last):
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\VSCodeSpace\sofun-tools-py\start.py", line 69, in hello
+    return jsonResult.success(get_param("name"))
+           ^^^^^^^^^^^^^^^^^^
+AttributeError: module 'utils.jsonResult' has no attribute 'success'
+2023-08-18 11:54:21,437 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 11:54:21] "[35m[1mGET /hello?name=111 HTTP/1.1[0m" 500 -
+2023-08-18 11:56:48,937 - start.py[line:116] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 11:56:48,950 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 11:56:48,951 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 11:56:51,415 - start.py[line:67] - INFO: >>>>hello
+2023-08-18 11:56:51,416 - start.py[line:68] - INFO: 111
+2023-08-18 11:56:51,417 - app.py[line:1414] - ERROR: Exception on /hello [GET]
+Traceback (most recent call last):
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\VSCodeSpace\sofun-tools-py\start.py", line 69, in hello
+    return jsonResult.success(get_param("name"))
+           ^^^^^^^^^^^^^^^^^^
+AttributeError: module 'utils.jsonResult' has no attribute 'success'
+2023-08-18 11:56:51,421 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 11:56:51] "[35m[1mGET /hello?name=111 HTTP/1.1[0m" 500 -
+2023-08-18 11:57:07,181 - start.py[line:67] - INFO: >>>>hello
+2023-08-18 11:57:07,182 - start.py[line:68] - INFO: 111
+2023-08-18 11:57:07,182 - app.py[line:1414] - ERROR: Exception on /hello [GET]
+Traceback (most recent call last):
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\VSCodeSpace\sofun-tools-py\start.py", line 69, in hello
+    return jsonResult.fial(get_param("name"))
+           ^^^^^^^^^^^^^^^^^^
+AttributeError: module 'utils.jsonResult' has no attribute 'success'
+2023-08-18 11:57:07,187 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 11:57:07] "[35m[1mGET /hello?name=111 HTTP/1.1[0m" 500 -
+2023-08-18 11:57:56,697 - start.py[line:117] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 11:57:56,711 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 11:57:56,711 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 11:57:59,396 - start.py[line:68] - INFO: >>>>hello
+2023-08-18 11:57:59,396 - start.py[line:69] - INFO: 111
+2023-08-18 11:57:59,397 - app.py[line:1414] - ERROR: Exception on /hello [GET]
+Traceback (most recent call last):
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\VSCodeSpace\sofun-tools-py\start.py", line 70, in hello
+    return JsonResult.success(get_param("name"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: JsonResult.success() missing 1 required positional argument: 'msg'
+2023-08-18 11:57:59,401 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 11:57:59] "[35m[1mGET /hello?name=111 HTTP/1.1[0m" 500 -
+2023-08-18 11:58:42,467 - start.py[line:68] - INFO: >>>>hello
+2023-08-18 11:58:42,468 - start.py[line:69] - INFO: 111
+2023-08-18 11:58:42,469 - app.py[line:1414] - ERROR: Exception on /hello [GET]
+Traceback (most recent call last):
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\python3\install\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\VSCodeSpace\sofun-tools-py\start.py", line 70, in hello
+    return JsonResult.success(get_param("name"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: JsonResult.success() missing 1 required positional argument: 'msg'
+2023-08-18 11:58:42,472 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 11:58:42] "[35m[1mGET /hello?name=111 HTTP/1.1[0m" 500 -
+2023-08-18 11:59:05,652 - start.py[line:117] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 11:59:05,668 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 11:59:05,668 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 11:59:07,973 - start.py[line:68] - INFO: >>>>hello
+2023-08-18 11:59:07,974 - start.py[line:69] - INFO: 111
+2023-08-18 11:59:07,975 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 11:59:07] "GET /hello?name=111 HTTP/1.1" 200 -
+2023-08-18 11:59:32,251 - start.py[line:68] - INFO: >>>>hello
+2023-08-18 11:59:32,252 - start.py[line:69] - INFO: 111
+2023-08-18 11:59:32,253 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 11:59:32] "GET /hello?name=111 HTTP/1.1" 200 -
+2023-08-18 11:59:32,974 - start.py[line:68] - INFO: >>>>hello
+2023-08-18 11:59:32,975 - start.py[line:69] - INFO: 111
+2023-08-18 11:59:32,976 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 11:59:32] "GET /hello?name=111 HTTP/1.1" 200 -
+2023-08-18 11:59:38,180 - start.py[line:117] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 11:59:38,194 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.0.161:5228
+2023-08-18 11:59:38,196 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 11:59:39,819 - start.py[line:68] - INFO: >>>>hello
+2023-08-18 11:59:39,821 - start.py[line:69] - INFO: 111
+2023-08-18 11:59:39,822 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 11:59:39] "GET /hello?name=111 HTTP/1.1" 200 -

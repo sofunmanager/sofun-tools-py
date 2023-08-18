@@ -1,0 +1,134 @@
+2023-08-18 15:01:38,669 - start.py[line:143] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:01:38,682 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:01:38,685 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:01:41,651 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:01:41] "GET /login?username=1&password=2 HTTP/1.1" 200 -
+2023-08-18 15:03:39,168 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:03:39,533 - start.py[line:144] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:03:39,546 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:03:39,552 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:03:41,420 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:03:41] "GET /login?username=1&password=2 HTTP/1.1" 200 -
+2023-08-18 15:04:37,495 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:04:37] "POST /login HTTP/1.1" 200 -
+2023-08-18 15:04:47,849 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:04:47] "GET /login HTTP/1.1" 200 -
+2023-08-18 15:04:56,535 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:04:56] "POST /login HTTP/1.1" 200 -
+2023-08-18 15:06:18,225 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:06:18,536 - start.py[line:144] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:06:18,548 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:06:18,552 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:06:22,855 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:06:22] "POST /login HTTP/1.1" 200 -
+2023-08-18 15:06:27,601 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:06:27,926 - start.py[line:143] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:06:27,985 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:06:27,992 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:06:29,127 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:06:29] "POST /login HTTP/1.1" 200 -
+2023-08-18 15:06:43,977 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:06:43] "POST /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:07:01,158 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:07:01] "POST /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:07:18,295 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:07:18] "GET /login?username=1&password=2 HTTP/1.1" 200 -
+2023-08-18 15:07:24,545 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:07:24] "GET /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:07:30,130 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:07:30] "POST /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:08:20,503 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:08:20,845 - start.py[line:143] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:08:20,855 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:08:20,858 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:08:26,672 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:08:26] "POST /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:09:11,067 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:09:11,375 - start.py[line:143] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:09:11,386 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:09:11,389 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:09:17,373 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:09:17] "[35m[1mPOST /login?username=123&password=233 HTTP/1.1[0m" 500 -
+2023-08-18 15:09:53,583 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:09:53,972 - start.py[line:143] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:09:53,983 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:09:53,986 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:09:56,048 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:09:56] "[35m[1mPOST /login?username=123&password=233 HTTP/1.1[0m" 500 -
+2023-08-18 15:10:08,105 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:10:08] "GET /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:10:57,284 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:10:57,603 - start.py[line:143] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:10:57,614 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:10:57,618 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:11:02,171 - start.py[line:143] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:11:02,192 - _internal.py[line:187] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5228
+ * Running on http://192.168.1.161:5228
+2023-08-18 15:11:02,193 - _internal.py[line:187] - INFO: [33mPress CTRL+C to quit[0m
+2023-08-18 15:11:02,196 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 15:11:02,489 - start.py[line:143] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:11:02,500 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:11:02,505 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:11:07,143 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:11:07] "POST /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:13:46,184 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:13:46,229 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 15:13:46,522 - start.py[line:146] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:13:46,536 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:13:46,539 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:13:54,105 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:13:54] "[35m[1mPOST /login?username=123&password=233 HTTP/1.1[0m" 500 -
+2023-08-18 15:14:08,650 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:14:08,697 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 15:14:08,981 - start.py[line:147] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:14:08,992 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:14:08,995 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:14:10,390 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:14:10] "[35m[1mPOST /login?username=123&password=233 HTTP/1.1[0m" 500 -
+2023-08-18 15:15:13,328 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:15:13,374 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 15:15:13,657 - start.py[line:150] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:15:13,669 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:15:13,672 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:15:15,951 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:15:15] "POST /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:16:29,001 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:16:29,060 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 15:16:29,334 - start.py[line:149] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:16:29,345 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:16:29,350 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:16:34,274 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:16:34] "POST /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:17:37,655 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:17:37,701 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 15:17:37,995 - start.py[line:152] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:17:38,007 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:17:38,011 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:17:40,532 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:17:40] "POST /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:19:34,532 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:19:34,574 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 15:19:34,848 - start.py[line:152] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:19:34,862 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:19:34,865 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:19:40,300 - start.py[line:129] - ERROR: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2023-08-18 15:19:40,301 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:19:40] "POST /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:19:53,954 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:19:54,037 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 15:19:54,315 - start.py[line:151] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:19:54,329 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:19:54,332 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:19:56,798 - start.py[line:128] - ERROR: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2023-08-18 15:19:56,798 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:19:56] "POST /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:36:20,382 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:36:20,424 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 15:36:20,694 - start.py[line:152] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:36:20,706 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:36:20,710 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:36:24,353 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:36:24] "POST /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:36:30,348 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:36:30] "GET /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:36:33,618 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:36:33] "POST /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:36:49,833 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:36:49,873 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 15:36:50,156 - start.py[line:153] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:36:50,169 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:36:50,173 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:36:52,392 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:36:52] "POST /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:37:04,251 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:37:04,339 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 15:37:04,631 - start.py[line:153] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:37:04,642 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:37:04,646 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:37:06,202 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:37:06] "POST /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:37:17,730 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\start.py', reloading
+2023-08-18 15:37:17,810 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 15:37:18,189 - start.py[line:153] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:37:18,202 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:37:18,205 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
+2023-08-18 15:37:19,156 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:37:19] "POST /login?username=123&password=233 HTTP/1.1" 200 -
+2023-08-18 15:38:20,850 - _internal.py[line:187] - INFO: 127.0.0.1 - - [18/Aug/2023 15:38:20] "POST /login HTTP/1.1" 200 -
+2023-08-18 15:43:41,733 - _internal.py[line:187] - INFO:  * Detected change in 'e:\\VSCodeSpace\\sofun-tools-py\\utils\\file_w_r_Utils.py', reloading
+2023-08-18 15:43:41,775 - _internal.py[line:187] - INFO:  * Restarting with stat
+2023-08-18 15:43:42,047 - start.py[line:153] - INFO: 启动sofun工具盒服务>>>
+2023-08-18 15:43:42,058 - _internal.py[line:187] - WARNING:  * Debugger is active!
+2023-08-18 15:43:42,062 - _internal.py[line:187] - INFO:  * Debugger PIN: 529-386-513
