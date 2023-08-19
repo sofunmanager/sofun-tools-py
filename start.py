@@ -10,7 +10,7 @@ from utils import svnUtils
 from utils.jsonResult import JsonResult
 from utils.jwtUtils import TokenUtils
 from utils.file_w_r_Utils import INI_Tools
-from server.user import user_routes
+from service.user import user_routes
 
 app = Flask(__name__)
 
@@ -64,7 +64,10 @@ if(c_port):
 
 c_is_debug=INI_Tools.get("SERVER_CONFIG","is_debug")
 if(c_is_debug):
-    is_debug=c_port
+    if(c_is_debug=="True"):
+        is_debug=True
+    else:
+        is_debug=False
 
 
 #启动参数处理
@@ -129,6 +132,5 @@ def after_request(response):
 
 if __name__ == '__main__':
     logging.info(f"启动{server_name}服务[DEBUG:{is_debug}]>>>")
-    # app.run(host,port,is_debug)
-    app.run(host,port,True)
+    app.run(host,port,is_debug)
     

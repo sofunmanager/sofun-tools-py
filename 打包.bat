@@ -1,1 +1,2 @@
 pyinstaller start.py
+pause;
